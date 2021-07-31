@@ -1,4 +1,4 @@
-# deep_learning_notes
+# Deep learning notes
 
 Блокноты с митапов по глубокому обучению.
 
